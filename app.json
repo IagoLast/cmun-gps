@@ -1,0 +1,12 @@
+{
+  "name": "cmun-gps",
+  "description": "Rest server providing weather forecast data",
+  "repository": "https://github.com/IagoLast/cmun-gps",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "municipios",
+    "gps",
+    "datos",
+    "coordenadas"
+  ]
+}

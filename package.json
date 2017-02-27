@@ -1,0 +1,37 @@
+{
+  "name": "cmun-gps",
+  "version": "1.0.0",
+  "description": "Rest service which gives municipe code and name from gps coordinates ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "yarn run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IagoLast/cmun-gps.git"
+  },
+  "keywords": [
+    "municipios",
+    "gps",
+    "datos",
+    "coordenadas"
+  ],
+  "author": "@iagolast",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IagoLast/cmun-gps/issues"
+  },
+  "homepage": "https://github.com/IagoLast/cmun-gps#readme",
+  "dependencies": {
+    "cors": "^2.8.1",
+    "dotenv": "^4.0.0",
+    "eslint": "^3.16.1",
+    "express": "^4.14.1",
+    "memory-cache": "^0.1.6",
+    "meteosapi": "^1.0.1",
+    "meteoscrapi": "^1.0.0",
+    "node-fetch": "^1.6.3",
+    "request": "^2.79.0"
+  }
+}
